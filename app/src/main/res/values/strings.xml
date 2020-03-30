@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helpy</string>
+    <string name="title_whelp">Quero ajudar</string>
+    <string name="title_help">Preciso de ajuda</string>
+</resources>
